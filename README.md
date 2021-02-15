@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harishankar Nair</h1>
-<h3 align="center">I'm a 2nd year Mechanical Engineering student at PCE, University Of Mumbai, Enthusiastic about the AI ,Robotics & Programming in C, C++,HTML,CSS & Android.</h3>
+<h3 align="center">I'm a 2nd year Mechanical Engineering student at PCE, University Of Mumbai, Enthusiastic about AI ,Robotics & Programming in C, C++,HTML,CSS & Android.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishankarnair591&label=Profile%20views&color=0e75b6&style=flat" alt="harishankarnair591" /> </p>
 
