@@ -7,17 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/harishankarrad1" target="blank"><img src="https://img.shields.io/twitter/follow/harishankarrad1?logo=twitter&style=for-the-badge" alt="harishankarrad1" /></a> </p>
 
-- 🔭 I’m currently working on [Airline Reservation Portal](https://github.com/harishankarnair591/Airline-Reservation-Portal)
-
-- 🌱 I’m currently learning **Python, Kotlin for Android**
-
-- 💬 Ask me about **C, C++**
-
-- 📫 How to reach me **harishankarnair591@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/harishankar-nair/](https://www.linkedin.com/in/harishankar-nair/)
-
-- ⚡ Fun fact **I think I am funny!**
+- 🌱 I’m currently working on projects
+- ⚙️ I'm interested in Artificial Intelligence and Machine learning
+- 📫 How to reach me? You can contact me on LinkedIn: https://www.linkedin.com/in/harishankar-nair/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
